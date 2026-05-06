@@ -16,6 +16,8 @@ type Vaga = {
   requisitos: string[]
 }
 
+//ppzinho
+
 const vagas = [
   {
     id: 1,
